@@ -1,5 +1,5 @@
-function leaderboardPayout(test) {
+function olp(test) {
     console.log(test);
 }
 
-module.exports = leaderboardPayout
+module.exports = olp
