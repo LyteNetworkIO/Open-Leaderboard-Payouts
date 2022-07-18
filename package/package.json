@@ -1,6 +1,6 @@
 {
-  "name": "olp",
-  "version": "0.0.2",
+  "name": "@lytenetwork/olp",
+  "version": "0.0.1",
   "description": "game leaderboard multi-payment protocol and library",
   "main": "index.js",
   "scripts": {
